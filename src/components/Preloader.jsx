@@ -6,7 +6,7 @@ const GmComponent = ({ darkMode }) => {
   return (
     <div className="gm-container" style={{ color: darkMode ? '#fff' : '#121212' }}>
       <span className="gm-symbol">&lt;</span>
-      <span className="gm-letter">Shivesh</span> 
+      <span className="gm-letter">S</span> 
       <span className="gm-letter">Satyam</span>
       <span className="gm-symbol">/&gt;</span>
     </div>
